@@ -17,12 +17,12 @@ FreshHub is a user-friendly grocery management system built with PHP. It provide
 - MySQL
 
 ## Screenshots
-![registration](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/Registration.png?raw=true)
 ![homepage](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/HomePage.png?raw=true)
+![registration](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/Registration.png?raw=true)
 ![contactUs](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/ContactUs.png?raw=true)
 ![cart](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/Cart.png?raw=true)
-![orderHistory](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/OrderHistory.png?raw=true)
 ![thankYouPage](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/ThankYouPage.png?raw=true)
+![orderHistory](https://github.com/Dalton-G/FreshHub/blob/main/screenshots/OrderHistory.png?raw=true)
 
 
 ## License
